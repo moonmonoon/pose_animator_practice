@@ -32,6 +32,7 @@ import * as girlSVG from './resources/illustration/girl.svg';
 import * as abstractSVG from './resources/illustration/abstract.svg';
 import * as blathersSVG from './resources/illustration/blathers.svg';
 import * as tomNookSVG from './resources/illustration/tom-nook.svg';
+import * as firepotatoSVG from './resources/illustration/firepotato.svg';
 import * as boy_doughnut from './resources/images/boy_doughnut.jpg';
 import * as tie_with_beer from './resources/images/tie_with_beer.jpg';
 import * as test_img from './resources/images/test.png';
@@ -56,6 +57,7 @@ const avatarSvgs = {
   'abstract': abstractSVG.default,
   'blathers': blathersSVG.default,
   'tom-nook': tomNookSVG.default,
+  'firepotato': firepotatoSVG.default,
 };
 const sourceImages = {
   'boy_doughnut': boy_doughnut.default,
